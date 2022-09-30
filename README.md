@@ -18,4 +18,5 @@
 |22.09.22|1|[Lecture 2 - Given a Model of the World](https://www.youtube.com/watch?v=E3f2Camj0Is&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&index=2)|정승혁|
 |22.09.29|2|모두를 위한 RL 강좌 : Lecture 1~3|임도연|
 |22.09.29|2|모두를 위한 RL 강좌 : Lecture 4~5|김유선|
-
+|22.10.06|3|모두를 위한 RL 강좌 : Lecture 6|김유선|
+|22.10.06|3|모두를 위한 RL 강좌 : Lecture 7||
